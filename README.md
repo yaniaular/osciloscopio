@@ -11,10 +11,10 @@ OsciloscopioMC
 Autores
 -------
 
-Yanina Aular, 19 588 966
-Luis González, 19 919 029
-Osval Reyes, 20 512 105
-Richard Rodríguez, 19 553 202
+- Yanina Aular
+- Luis González
+- Osval Reyes
+- Richard Rodríguez
 
 Viernes, 11 de Febrero 2011
 
