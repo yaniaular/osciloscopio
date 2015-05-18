@@ -8,6 +8,9 @@ Prof. Antonio Castañeda
 
 OsciloscopioMC
 
+Autores
+-------
+
 Yanina Aular, 19 588 966
 Luis González, 19 919 029
 Osval Reyes, 20 512 105
@@ -23,7 +26,9 @@ Un osciloscopio es un tipo de instrumento electrónico que permite visualizar vo
 	OsciloscopioMC es una aplicación que actúa como un osciloscopio electrónico; solo que, a diferencia de este último, no es un instrumento electrónico, si no un software que, haciendo uso de la tarjeta de sonido en donde se utilice, pretende cumplir con la misma función.
 
 	El presente documento explicará el funcionamiento de OsciloscopioMC, así como su proceso de desarrollo, y todo lo concerniente al software que hay en este CD. Adicionalmente, se abordarán conceptos necesarios para una mejor comprensión del tema, tales como onda, frecuencia, amplitud, entre otros.
+
 Justificación
+-------------
 
 Un osciloscopio es una herramienta de mucha utilidad, necesario en dibersos campos. Debido a que este dispositivo normalmente tiene un costo elevado, hemos decidido hacer un software que, en la medida de lo posible, cumpla el mismo propósito; usando para ello la tarjeta de sonido del equipo en donde se va a utilizar; con esto, evitamos los costos del osciloscopio y facilitamos el uso y la configuración al momento de su utilización.
 Limitaciones: 
@@ -109,16 +114,6 @@ Desarrollo
 
 10. Grosor: Modifica la intensidad de la onda, el rango de valores se encuentra entre 1,0 y 5,0 de grosor.
 
-
-
-
-
-
-
-
-
-
-	
 Conclusiones y Recomendaciones
 ------------------------------
 
@@ -129,6 +124,7 @@ En muchos casos, no es necesario adquirir un osciloscopio, ya que puede ser reem
 
 
 Referencias Bibliográficas
+--------------------------
 
 http://www2.fices.unsl.edu.ar/~areaeyc/lme/services/Conceptos_Basicos_Osciloscopios.pdf
 
